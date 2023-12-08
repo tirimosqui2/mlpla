@@ -1,0 +1,63 @@
+{
+"name": "TIRI_vod",
+"author": "tiri",
+"url": "https://github.com/tirimosqui2/mlpla/raw/main/TIRI_vod.json#.m3u",
+"image": "https://media.tenor.com/GNT5qaiNYMEAAAAC/watch-watching.gif",
+"groups":
+	[
+    	{
+        "name": "Peliculas deporte",
+        "image": "https://media.tenor.com/ueQRESb5kpUAAAAC/sundeep-kishan-as-hockey-player-in-a1-express-movie-sundeepkishan.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinedeporte.m3u",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas baile",
+        "image": "https://media.tenor.com/eJ6WQanSHpUAAAAC/dancing-m3gan.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/CINEBaile.m3u",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas aventuras y accion",
+        "image": "https://media.tenor.com/MJZ6NVNp07oAAAAd/ponste50.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineaventuras.json",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas comedia",
+        "image": "https://media.tenor.com/gX1de47SBI4AAAAi/watching-a-movie-mini-pufts.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinecomedia.json",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas magia y fantasia",
+        "image": "https://media.tenor.com/OIFc5y_-Z2AAAAAd/punta-ko-sm-hocus-pocus.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinemagia.json",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas dibujos",
+        "image": "https://media.tenor.com/lMoRWS3XCG0AAAAd/animation-antonio.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/dibuspeli.m3u",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas terror",
+        "image": "https://media.tenor.com/HMweYTF1O4QAAAAi/dance-pennywise.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineterror.json",
+        "info":"bY. tiri"
+        },
+    	{
+        "name": "Peliculas ñoñas",
+        "image": "https://media.tenor.com/fr7iAwgESg0AAAAC/mjhg3.gif",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineñoñas.json",
+        "info":"bY. tiri"
+        },
+		{
+        "name": "Peliculas accstream by sagerao",
+        "image": "https://media.tenor.com/VGowjXpojsYAAAAC/rubiks-cube-gif.gif",
+        "url": "https://csv2m3u.vercel.app/peliculas_base.txt",
+        "info":"bY. tiri"
+        }
+	]
+}  

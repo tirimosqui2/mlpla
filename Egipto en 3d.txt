@@ -1,0 +1,130 @@
+{
+"name": "Egipto en 3d",
+"author": "Tirimosqui",
+"url": "",
+"image": "https://2.bp.blogspot.com/-JM-60dB4-JM/V3n9S_TyvgI/AAAAAAAAuM8/8H7vFtbMAzE2y-8ndzgn7pGkF3ImR9cmQCLcB/s400/horoscopo-egipcio-getty_CLAIMA20150322_0064_27.jpg",
+"info": "libre y gratis",
+"stations":
+	[
+{"name": "egypto-tesoro-de-tutankhamon",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=85n8j312Ur4",
+"embed": "true" 
+},
+{"name": "egypto-niankh khunum tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=PKxweZaPG3P&help=1&brand=1&play=1&hl=1&ts=2&title=1&tourcta=2&vrcoll=0&dh=1&lp=1&wts=1",
+"embed": "true" 
+},
+{"name": "egypto-general-horemheb-saqqara tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/teasers/kv57_horemheb/bridge_over_the_well_chamber/6/-2/64",
+"embed": "true" 
+},
+{"name": "egypto-seti-valle-reyes tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://cuicui.be/egypt-seti-i-tomb/",
+"embed": "true" 
+},
+{"name": "egypto-khety-beni-hassan tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://cuicui.be/egypt-seti-i-tomb/",
+"embed": "true" 
+},
+{"name": "egypto-faraon-horemheb tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/tours/kv57_horemheb/bridge_over_the_well_chamber?h=6&v=-2&f=63",
+"embed": "true" 
+},
+{"name": "egypto-templo-kalabsha",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/tours/kalabsha/kalabsha_temple_dock/112/3/103",
+"embed": "true" 
+},
+{"name": "egypto-templo-philae",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/tours/philae/vestibule_of_nectaebo_i/0/0/120",
+"embed": "true" 
+},
+{"name": "egypto-petahhotep tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/tours/ptah_hotep/djoser_pyramid_ptah_hotep_overview/0/0/85",
+"embed": "true" 
+},
+{"name": "egypto-sennedjem tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/tours/sennedjem/overview_deir_el_madina/0/0/112",
+"embed": "true" 
+},
+{"name": "egypto-ramses Iv tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://describingegypt.com/tours/ramessesvi/kv9_lower_corridor_g_end/1/17/80%20%20",
+"embed": "true" 
+},
+{"name": "egypto-ti tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=yc1fJfrKnBP",
+"embed": "true" 
+},
+{"name": "egypto-menna tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "http://my.matterport.com/show/?m=vLYoS66CWpk",
+"embed": "true" 
+},
+{"name": "egypto-meresankh 3 tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=d42fuVA21To",
+"embed": "true" 
+},
+{"name": "egypto-mehu tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=xmDbt2rfa82",
+"embed": "true" 
+},
+{"name": "egypto-cotic museum",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://mpembed.com/show/?m=yMMHWqMJZbY",
+"embed": "true" 
+},
+{"name": "egypto-wanhy tomb",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=BsXpwTSYSyN",
+"embed": "true" 
+},
+{"name": "egypto-amada temple",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://my.matterport.com/show/?m=wpdMtL8MgHG",
+"embed": "true" 
+},
+{"name": "egypto-abu simbel",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://mpembed.com/show/?m=sgMWWDvdKsV&mpu=497",
+"embed": "true" 
+},
+{"name": "Cairo Pyramides",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://www.airpano.com/embed.php?3D=Egypt-Cairo-Pyramids",
+"embed": "true" 
+},
+{"name": "egypto-tumba de Meresankh III",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://www.google.com/maps/@29.973885,31.128895,3a,75y,25.42h,90.64t/data=!3m5!1e1!3m3!1sRrzOB7x2X6Fz7l_2SC1H9Q!2e0!3e5",
+"embed": "true" 
+},
+{"name": "gran piramide giza",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://www.google.com/maps/@29.9791375,31.1355772,2a,75y,269.39h,120.06t/data=!3m7!1e1!3m5!1snoXQFKlSdafIElPS76uvtA!2e0!3e5!7i13312!8i6656",
+"embed": "true" 
+},
+{"name": "gran piramide giza 2",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://www.google.com/maps/@29.973757,31.128072,3a,75y,164.71h,84.67t/data=!3m5!1e1!3m3!1s0xSsoMSVrtwlg791K2LysQ!2e0!3e5",
+"embed": "true" 
+},
+{"name": "gran piramide giza 3",
+"image": "https://okdiario.com/img/2018/06/15/egipto-vestidos-655x368.jpeg",
+"url": "https://www.google.com/maps/@29.975021,31.137632,3a,75y,352.64h,85.58t/data=!3m5!1e1!3m3!1sFyLWxxJLLBT1X2Ke5phDSw!2e0!3e5",
+"embed": "true" 
+}
+	]
+}
