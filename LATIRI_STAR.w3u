@@ -1,6 +1,6 @@
 {
 "name": "💢 TIRISTAR 📺 MLPA 💢",
-"author": "Tirimosqui",
+"author": "ʙʏ Tiri©️",
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u",
 "image": "https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4",
 "imageScale": "",
@@ -277,9 +277,15 @@
 "embed": "true"
 },
 ]},
-{"name":"TODO EGIPTO",
+{"name":"DOCUMENTALES",
 "image":"https://supercurioso.com/wp-content/uploads/2020/04/Caracter%C3%ADsticas-de-la-Sociedad-del-Antiguo-Egipto.jpg",
 "groups": [
+{"name": "DOCUS VARIADOS",
+"image": "https://i.blogs.es/8154d1/documentales/1366_2000.webp",
+"online":"true",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/main/docus.m3u",
+"isHost": true,
+"import":"true"},
 {"name": "Egipto en 3d",
 "image": "https://supercurioso.com/wp-content/uploads/2020/04/Caracter%C3%ADsticas-de-la-Sociedad-del-Antiguo-Egipto.jpg",
 "online":"true",
