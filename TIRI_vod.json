@@ -5,6 +5,12 @@
 "image": "https://media.tenor.com/GNT5qaiNYMEAAAAC/watch-watching.gif",
 "groups":
 	[
+     	{
+        "name": "éxitos del cine español",
+        "image": "https://www.enriquedans.com/wp-content/uploads/2011/09/cinespa%C3%B1ol.jpg",
+        "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/Cespañol.m3u",
+        "info":"bY. tiri"
+        },		
     	{
         "name": "Peliculas deporte",
         "image": "https://media.tenor.com/ueQRESb5kpUAAAAC/sundeep-kishan-as-hockey-player-in-a1-express-movie-sundeepkishan.gif",
