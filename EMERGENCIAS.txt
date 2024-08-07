@@ -125,12 +125,13 @@ Si la discapacidad es visual, http://www.svisual.org)
 
 🟢ESTADO DE LAS CARRETERAS🟢
 
+🚓Estado de las carreteras España general
 https://infocar.dgt.es/etraffic/
-Estado de las carreteras en Cataluña
+🚓Estado de las carreteras en Cataluña
 https://mct.gencat.cat/
-Estado de las carreteras en País Vasco
+🚓Estado de las carreteras en País Vasco
 https://www.trafikoa.euskadi.eus/wps/portal/trafico/incidenciasTrafico
-Estado de las carreteras en Navarra
+🚓Estado de las carreteras en Navarra
 https://administracionelectronica.navarra.es/IncCarreteras/Mapa.aspx
 
 
