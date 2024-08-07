@@ -486,10 +486,9 @@
 {"name": "Protectora Maginaanimal by Vargas",
 "image":"https://telegra.ph/file/54f159100c003d68ed9b5.jpg",
 "url": "https://telegra.ph/Ayuda-a-la-protectora-07-08",
-"embed": "true"
-},
+"embed": "true"},
 ]},
-{"name": "Mapas carreteras España",
+{"name": "🟢MAPAS CARRETERAS ESPAÑA🟢",
  "image": "https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2019/06/30/993250.jpg",
 "stations":[
 { "name": "Mapa carreteras España oficial",
@@ -516,6 +515,259 @@
  "image": "https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2019/06/30/993250.jpg",
  "url": "https://mapas.race.es/index.html",
  "embed": "true" }, 
+]},
+{"name": "🟢CÁMARAS DE TRÁFICO ESPAÑA🟢",
+ "image": "https://estaticos-cdn.prensaiberica.es/clip/bf5f61e8-462d-4e9c-bd16-352b89af2e43_16-9-discover-aspect-ratio_default_0.webp",
+"stations":[
+{"name": "España general",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/",
+"embed": "true"
+},
+{"name": "Álava",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.trafikoa.eus/wps/portal/trafico/camarasTrafico",
+"embed": "true"
+},
+{"name": "Santa Cruz de Tenerife",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://cic.tenerife.es/web3/index.html",
+"embed": "true"
+},
+{"name": "Gipuzkoa",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.trafikoa.eus/wps/portal/trafico/camarasTrafico",
+"embed": "true"
+},
+{"name": "Navarra",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.navarra.es/home_es/Temas/Territorio/Camaras/",
+"embed": "true"
+},
+{"name": "Bizkaia",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.trafikoa.eus/wps/portal/trafico/camarasTrafico",
+"embed": "true"
+},
+{"name": "Bizkaia",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.bizkaimove.eus/bm/camaras.html",
+"embed": "true"
+},
+{"name": "A Coruña",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=15/",
+"embed": "true"
+},
+{"name": "Albacete",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=2/",
+"embed": "true"
+},
+{"name": "Alicante",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=3/",
+"embed": "true"
+},
+{"name": "Almería",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=4/",
+"embed": "true"
+},
+{"name": "Asturias",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=33/",
+"embed": "true"
+},
+{"name": "Badajoz",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=6/",
+"embed": "true"
+},
+{"name": "Burgos",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=9/",
+"embed": "true"
+},
+{"name": "Cáceres",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=10/",
+"embed": "true"
+},
+{"name": "Cádiz",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=11/",
+"embed": "true"
+},
+{"name": "Cantabria",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=39/",
+"embed": "true"
+},
+{"name": "Castellón",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=12/",
+"embed": "true"
+},
+{"name": "Ciudad Real",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=13/",
+"embed": "true"
+},
+{"name": "Córdoba",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=14/",
+"embed": "true"
+},
+{"name": "Cuenca",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=16/",
+"embed": "true"
+},
+{"name": "Barcelona",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/",
+"embed": "true"
+},
+{"name": "Girona",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/",
+"embed": "true"
+},
+{"name": "Tarragona",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/",
+"embed": "true"
+},
+{"name": "Lleida",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/",
+"embed": "true"
+},
+{"name": "Granada",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=18/",
+"embed": "true"
+},
+{"name": "Guadalajara",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=19/",
+"embed": "true"
+},
+{"name": "Huelva",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=21/",
+"embed": "true"
+},
+{"name": "Huesca",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=22/",
+"embed": "true"
+},
+{"name": "Illes Balears",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=7/",
+"embed": "true"
+},
+{"name": "Jaén",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=23/",
+"embed": "true"
+},
+{"name": "La Rioja",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=26/",
+"embed": "true"
+},
+{"name": "León",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=24/",
+"embed": "true"
+},
+{"name": "Lugo",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=27/",
+"embed": "true"
+},
+{"name": "Madrid",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=28/",
+"embed": "true"
+},
+{"name": "Málaga",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=29/",
+"embed": "true"
+},
+{"name": "Murcia",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=30/",
+"embed": "true"
+},
+{"name": "Ourense",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=32/",
+"embed": "true"
+},
+{"name": "Palencia",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=34/",
+"embed": "true"
+},
+{"name": "Pontevedra",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=36/",
+"embed": "true"
+},
+{"name": "Salamanca",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=37/",
+"embed": "true"
+},
+{"name": "Segovia",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=40/",
+"embed": "true"
+},
+{"name": "Sevilla",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=41/",
+"embed": "true"
+},
+{"name": "Soria",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=42/",
+"embed": "true"
+},
+{"name": "Teruel",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=44/",
+"embed": "true"
+},
+{"name": "Toledo",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=45/",
+"embed": "true"
+},
+{"name": "Valencia",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=46/",
+"embed": "true"
+},
+{"name": "Valladolid",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=47/",
+"embed": "true"
+},
+{"name": "Zamora",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=49/",
+"embed": "true"
+},
+{"name": "Zaragoza",
+ "image": "https://cdn-images.motor.es/image/m/1100w.webp/fotos-noticias/2020/01/min652x435/estado-carreteras-camaras-dgt-202064049-1579089832_4.jpg",
+"url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=50/",
+"embed": "true"},
 ]},
 {"name": "INFO",
 "image": "https://149796158.v2.pressablecdn.com/wp-content/uploads/2020/09/meet-information-600x446.jpg",
