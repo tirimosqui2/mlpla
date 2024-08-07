@@ -137,11 +137,20 @@ https://administracionelectronica.navarra.es/IncCarreteras/Mapa.aspx
 
 🟢MAPAS DE CARRETERAS ESPAÑA🟢
 
-https://mapaoficialcarreteras.transportes.gob.es/
-https://www.google.com/maps/@39.266036,-2.893018,6z?hl=es
-https://www.viamichelin.es/web/Itinerarios
-https://www.enterat.com/servicios/estado-carreteras-dgt.php
-http://meteoruta.aemet.es/
+🔹 oficial carreteras
+https://mapaoficialcarreteras.transportes.gob.es/ 
+🔹 dgt     
+https://www.enterat.com/servicios/estado-carreteras-dgt.php  
+🔹 google maps
+https://www.google.com/maps/@39.266036,-2.893018,6z?hl=es    
+🔹 aemet
+http://meteoruta.aemet.es/ 
+🔹 race mapas                      
+https://mapas.race.es/index.html   
+🔹 michelin mapas-planos              
+https://www.viamichelin.es/mapas-planos/espana
+🔹 michelin Itinerarios    
+https://www.viamichelin.es/web/Itinerarios 
 
 
 🟢CÁMARAS DE TRÁFICO DE ESPAÑA🟢
