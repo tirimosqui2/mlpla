@@ -145,105 +145,105 @@ http://meteoruta.aemet.es/
 
 🟢CÁMARAS DE TRÁFICO DE ESPAÑA🟢
 
-España general
+🔹 España general
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/
-Álava
+🔹 Álava
 https://www.trafikoa.eus/wps/portal/trafico/camarasTrafico
-Santa Cruz de Tenerife
+🔹 Santa Cruz de Tenerife
 https://cic.tenerife.es/web3/index.html
-Gipuzkoa
+🔹 Gipuzkoa
 https://www.trafikoa.eus/wps/portal/trafico/camarasTrafico
-Navarra
+🔹 Navarra
 https://www.navarra.es/home_es/Temas/Territorio/Camaras/
-Bizkaia
+🔹 Bizkaia
 https://www.trafikoa.eus/wps/portal/trafico/camarasTrafico
-Bizkaia
+🔹 Bizkaia
 https://www.bizkaimove.eus/bm/camaras.html
-A Coruña
+🔹 A Coruña
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=15/
-Albacete
+🔹 Albacete
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=2/
-Alicante
+🔹 Alicante
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=3/
-Almería
+🔹 Almería
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=4/
-Asturias
+🔹 Asturias
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=33/
-Badajoz
+🔹 Badajoz
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=6/
-Burgos
+🔹 Burgos
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=9/
-Cáceres
+🔹 Cáceres
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=10/
-Cádiz
+🔹 Cádiz
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=11/
-Cantabria
+🔹 Cantabria
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=39/
-Castellón
+🔹 Castellón
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=12/
-Ciudad Real
+🔹 Ciudad Real
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=13/
-Córdoba
+🔹 Córdoba
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=14/
-Cuenca
+🔹 Cuenca
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=16/
-Barcelona
+🔹 Barcelona
 https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/
-Girona
+🔹 Girona
 https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/
-Tarragona
+🔹 Tarragona
 https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/
-Lleida
+🔹 Lleida
 https://transit.gencat.cat/ca/informacio_viaria/estat_del_transit/cameres_del_transit/
-Granada
+🔹 Granada
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=18/
-Guadalajara
+🔹 Guadalajara
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=19/
-Huelva
+🔹 Huelva
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=21/
-Huesca
+🔹 Huesca
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=22/
-Illes Balears
+🔹 Illes Balears
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=7/
-Jaén
+🔹 Jaén
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=23/
-La Rioja
+🔹 La Rioja
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=26/
-León
+🔹 León
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=24/
-Lugo
+🔹 Lugo
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=27/
-Madrid
+🔹 Madrid
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=28/
-Málaga
+🔹 Málaga
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=29/
-Murcia
+🔹 Murcia
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=30/
-Ourense
+🔹 Ourense
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=32/
-Palencia
+🔹 Palencia
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=34/
-Pontevedra
+🔹 Pontevedra
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=36/
-Salamanca
+🔹 Salamanca
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=37/
-Segovia
+🔹 Segovia
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=40/
-Sevilla
+🔹 Sevilla
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=41/
-Soria
+🔹 Soria
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=42/
-Teruel
+🔹 Teruel
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=44/
-Toledo
+🔹 Toledo
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=45/
-Valencia
+🔹 Valencia
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=46/
-Valladolid
+🔹 Valladolid
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=47/
-Zamora
+🔹 Zamora
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=49/
-Zaragoza
+🔹 Zaragoza
 https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=50/
 
 
