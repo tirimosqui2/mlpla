@@ -71,7 +71,7 @@
 {"name": "El Club de las Canguro 2020",
 "image": "https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",
 "online":"false",
-"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/main/ClubdelasCanguro.m3u#.m3u",
+"url": "https://raw.githubusercontent.com/tirimosqui2/seriestiriList/main/clubdecanguro.m3u#.m3u",
 "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
 "import":"false"},
 {"name": "Campamento Newton 2022",
@@ -682,7 +682,7 @@
 "url": "https://www.dgt.es/conoce-el-estado-del-trafico/camaras-de-trafico/?pag=1&amp;prov=50/",
 "embed": "true"},
 ]},
-{"name": "WOLRD CAM",
+{"name": "WOLRD CAM 🛰",
 "image": "https://media.tenor.com/N75MbxXTSvUAAAAi/cam-security-ptz-camera.gif",
 "groups": [
 {"name": "wolrd public cameras",
