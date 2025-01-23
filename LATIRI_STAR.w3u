@@ -13,7 +13,7 @@
 {"name": "TDT CHANELS",
 "image": "https://www.trecebits.com/wp-content/uploads/2023/01/TDT-Channels.webp",
 "online":"true",
-"url": "https://www.tdtchannels.com/lists/tvradio.w3u#.m3u",
+"url": "https://www.tdtchannels.com/lists/tvradio.m3u#.m3u",
 "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
 "import":"true"},
 {"name": "TV INFANTIL",
