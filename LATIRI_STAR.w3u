@@ -23,20 +23,20 @@
 "isHost": true,
 "import":"true"},
 ]},
-{"name":"CINE CON VALORES 👪",
-"image":"https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
-"groups": [
-{"name": "CON VALORES",
-"image":"https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
-"online":"false",
-"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u#.m3u",
-"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
-"import":"false"},
-]},
 {
 "name":"CINE PELICULAS 🍿",
 "image":"https://media.tenor.com/4B2j48N2jMUAAAAd/20th-century-fox-logo.gif",
 "groups": [
+
+{"name": "Cine Con VALORES",
+"image":"https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
+"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u#.m3u",
+        "info" : "
+💬 Informacion:
+ Cine y docus con muchos valorres",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"import":"false"
+},	
      	{
         "name": "Peliculas cine Español",
         "image": "https://www.enriquedans.com/wp-content/uploads/2011/09/cinespa%C3%B1ol.jpg",
