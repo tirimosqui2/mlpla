@@ -1,69 +1,81 @@
 {
 "name": "📽️TIRI_vod",
-"author": "ʙʏ Tiri©️",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™️",
 "url": "https://github.com/tirimosqui2/mlpla/raw/main/TIRI_vod.json#.m3u",
 "image": "https://media.tenor.com/GNT5qaiNYMEAAAAC/watch-watching.gif",
 "groups":
 	[
      	{
-        "name": "éxitos del cine español",
+        "name": "Peliculas cine Español",
         "image": "https://www.enriquedans.com/wp-content/uploads/2011/09/cinespa%C3%B1ol.jpg",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/Cespañol.m3u",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine relacionado con Nuestro Cine ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },		
     	{
-        "name": "Peliculas deporte",
+        "name": "Peliculas Deporte",
         "image": "https://media.tenor.com/ueQRESb5kpUAAAAC/sundeep-kishan-as-hockey-player-in-a1-express-movie-sundeepkishan.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinedeporte.m3u",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine relacionado con Deportes ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },
 		{
-        "name": "Peliculas baile",
+        "name": "Peliculas Baile",
         "image": "https://media.tenor.com/eJ6WQanSHpUAAAAC/dancing-m3gan.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/CINEBaile.m3u",
-        "info":"bY. tiri"
-        },
+        "info" : "
+💬 Informacion:
+ Cine relacionado con Baile ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
+        },	
 		{
-        "name": "Peliculas aventuras y accion",
+        "name": "Peliculas Aventuras y Accion",
         "image": "https://media.tenor.com/MJZ6NVNp07oAAAAd/ponste50.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineaventuras.json",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine relacionado Av y Accion ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },
 		{
-        "name": "Peliculas comedia",
+        "name": "Peliculas Comedia",
         "image": "https://media.tenor.com/gX1de47SBI4AAAAi/watching-a-movie-mini-pufts.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinecomedia.json",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine para reirnos ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },
 		{
-        "name": "Peliculas magia y fantasia",
+        "name": "Peliculas Magia y Fantasia",
         "image": "https://media.tenor.com/OIFc5y_-Z2AAAAAd/punta-ko-sm-hocus-pocus.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinemagia.json",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine fantastico para imaginar ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },
 		{
-        "name": "Peliculas dibujos",
+        "name": "Peliculas Dibujos",
         "image": "https://media.tenor.com/lMoRWS3XCG0AAAAd/animation-antonio.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/dibuspeli.m3u",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine Para los mas peques ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },
 		{
-        "name": "Peliculas terror",
+        "name": "Peliculas Terror",
         "image": "https://media.tenor.com/HMweYTF1O4QAAAAi/dance-pennywise.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineterror.json",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine Para hacernos caquiita ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         },
     	{
-        "name": "Peliculas ñoñas",
+        "name": "Peliculas Ñoñas",
         "image": "https://media.tenor.com/fr7iAwgESg0AAAAC/mjhg3.gif",
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineñoñas.json",
-        "info":"bY. tiri"
-        },
-		{
-        "name": "Peliculas accstream by sagerao",
-        "image": "https://media.tenor.com/VGowjXpojsYAAAAC/rubiks-cube-gif.gif",
-        "url": "https://csv2m3u.vercel.app/peliculas_base.txt",
-        "info":"bY. tiri"
+        "info" : "
+💬 Informacion:
+ Cine para ellas ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™"
         }
 	]
 }  
