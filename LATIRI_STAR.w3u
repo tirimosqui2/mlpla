@@ -43,8 +43,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/Cespañol.m3u",
         "info" : "
 💬 Informacion:
- Cine relacionado con Nuestro Cine ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine relacionado con Nuestro Cine",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },	
     	{
@@ -53,8 +53,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinedeporte.m3u",
         "info" : "
 💬 Informacion:
- Cine relacionado con Deportes ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine relacionado con Deportes",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
 		{
@@ -63,8 +63,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/CINEBaile.m3u",
         "info" : "
 💬 Informacion:
- Cine relacionado con Baile ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine relacionado con Baile",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },	
 		{
@@ -73,8 +73,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineaventuras.json",
         "info" : "
 💬 Informacion:
- Cine relacionado Av y Accion ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine relacionado Av y Accion",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
 		{
@@ -83,8 +83,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinecomedia.json",
         "info" : "
 💬 Informacion:
- Cine para reirnos ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine para reirnos",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
 		{
@@ -93,8 +93,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinemagia.json",
         "info" : "
 💬 Informacion:
- Cine fantastico para imaginar ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine fantastico para imaginar",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
 		{
@@ -103,8 +103,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/dibuspeli.m3u",
         "info" : "
 💬 Informacion:
- Cine Para los mas peques ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine Para los mas peques",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
 		{
@@ -113,8 +113,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineterror.json",
         "info" : "
 💬 Informacion:
- Cine Para hacernos caquiita ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine Para hacernos caquiita",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
     	{
@@ -123,8 +123,8 @@
         "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cineñoñas.json",
         "info" : "
 💬 Informacion:
- Cine para ellas ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
-"isHost": false,
+ Cine para ellas",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
 ]},
