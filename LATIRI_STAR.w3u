@@ -117,6 +117,16 @@
 "author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
 "import":"false"
 },
+		{
+"name": "CINE Filmografias",
+"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_927,h_600/https://dossierinteractivo.com/wp-content/uploads/2020/11/film-1155439.jpg",
+"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/Filmografias.json",
+        "info" : "
+💬 Informacion:
+ Cine de grandes maestros",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™",
+"import":"false"
+},
     	{
         "name": "Peliculas Ñoñas",
         "image": "https://media.tenor.com/fr7iAwgESg0AAAAC/mjhg3.gif",
