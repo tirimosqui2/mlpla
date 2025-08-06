@@ -1,124 +1,64 @@
-{ 
-"name": " 🔞 TV Marrana 🔞", 
-"author": "𝓑𝓎: TiriTV​​​​​©", 
-"url": "https://raw.githubusercontent.com/tiriti1/tiri/main/Marranatv.txtm3u",
-"image":"https://queplan.mx/sites/default/files/2021-01/peliculas-adultos-megacable.png",
-		"stations": 			
-	[
-{"name":"evil-angel",		
-url:"https://www.pirilampo.tv/live-tv/evil-angel.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/evil-angel.png",
-"playInNatPlayer":"true"},
-
-{"name":"dorcel",		
-url:"https://www.pirilampo.tv/live-tv/dorcel-xxx.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/dorcel-xxx.png",
-"playInNatPlayer":"true"},
-
-{"name":"Trans erotica",	
-image:"https://jav69xxx.com/wp-content/uploads/2022/10/jav1626.jpg",	
-url:"https://www.pirilampo.tv/live-tv/trans-erotica.html",
-"playInNatPlayer":"true"},
-
-{"name":"babes",		
-url:"https://www.pirilampo.tv/live-tv/babes-tv-hd.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/babes-tv-hd.png",
-"playInNatPlayer":"true"},
-
-{"name":"fake-taxi",		
-url:"https://www.pirilampo.tv/live-tv/fake-taxi.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/fake-taxi.png",
-"playInNatPlayer":"true"},
-
-{"name":"tiny-4k",		
-url:"https://www.pirilampo.tv/live-tv/tiny-4k.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/tiny-4k.png",
-"playInNatPlayer":"true"},
-
-{"name":"blue-hustler",		
-url:"https://www.pirilampo.tv/live-tv/blue-hustler.html",	
-image:"https://w=ww.pirilampo.tv/uploads/tv_image/blue-hustler.png",
-"playInNatPlayer":"true"},
-
-{"name":"hustler-tv",		
-url:"https://www.pirilampo.tv/live-tv/hustler-tv.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/hustler-tv.png",
-"playInNatPlayer":"true"},
-
-{"name":"eroxxx",		
-url:"https://www.pirilampo.tv/live-tv/eroxxx-hd.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/eroxxx-hd.png",
-"playInNatPlayer":"true"},
-
-{"name":"sextreme",		
-url:"https://www.pirilampo.tv/live-tv/sextreme.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/sextreme.png",
-"playInNatPlayer":"true"},
-
-{"name":"hot-man",	
-url:"https://www.pirilampo.tv/live-tv/hot-man.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/hot-man.png",
-"playInNatPlayer":"true"},
-
-{"name":"xy-plus",		
-url:"https://www.pirilampo.tv/live-tv/xy-plus.html",	
-image:"https://w=ww.pirilampo.tv/uploads/tv_image/xy-plus.png",
-"playInNatPlayer":"true"},
-
-{"name":"penthouse-reality",		
-url:"https://www.pirilampo.tv/live-tv/penthouse-reality-tv.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/penthouse-reality-tv.png",
-"playInNatPlayer":"true"},
-     
-{"name":"redlight",		
-url:"https://www.pirilampo.tv/live-tv/redlight-hd.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/redlight-hd.png",
-"playInNatPlayer":"true"},
-
-{"name":"brazzers",		
-url:"https://www.pirilampo.tv/live-tv/brazzers-tv-europe.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/brazzers-tv-europe.png",
-"playInNatPlayer":"true"},
-
-{"name":"dorcel",		
-url:"https://www.pirilampo.tv/live-tv/dorcel-tv.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/dorcel-tv.png",
-"playInNatPlayer":"true"},
-
-{"name":"private",		
-url:"https://www.pirilampo.tv/live-tv/private-tv.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/private-tv.png",
-"playInNatPlayer":"true"},
-
-{"name":"miami-tv",		
-url:"https://www.pirilampo.tv/live-tv/miami-tv.html",
-image:"https://www.pirilampo.tv/uploads/tv_image/miami-tv.png",
-"playInNatPlayer":"true"},
-
-{"name":"penthouse-gold",		
-url:"https://www.pirilampo.tv/live-tv/penthouse-gold.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/penthouse-gold.png",
-"playInNatPlayer":"true"},
-
-{"name":"hot",		
-url:"https://www.pirilampo.tv/live-tv/hot.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/hot.png",
-"playInNatPlayer":"true"},
-
-{"name":"venus",		
-url:"https://www.pirilampo.tv/live-tv/venus.html",	
-image:"https://www.pirilampo.tv/uploads/tv_image/venus.png",
-"playInNatPlayer":"true"},
-
-{"name":"hustler",	
-url:"https://www.pirilampo.tv/live-tv/hustler-hd.html",
-image:"https://www.pirilampo.tv/uploads/tv_image/hustler-hd.png",
-"playInNatPlayer":"true"},
-
-]},
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",TV Marrana +18 𝓑𝓎: TiriTV​​​​​©
+https://github.com/tiriti1/tiri/blob/main/tiri.jpg?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="US",Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",	Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="Midnight Secrets" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
 
-]
-}
-]
-},
+
+
+
+
+
